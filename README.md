@@ -1,2 +1,2 @@
 # Animated-background
-This is an amazing animated background..
+This is an amazing animated background.
